@@ -28,7 +28,7 @@ It is revolutionizing the semiconductor industry by enabling **collaborative inn
 ---
 
 ## 📂 Weekly Progress
-- [Week 0: Environment Setup](Week-0) ✅
+- [Week 0: Environment Setup](Week-0/README.md) ✅
 - Week 1: TBD  
 - Week 2: TBD  
 - …  
