@@ -28,7 +28,7 @@ It is revolutionizing the semiconductor industry by enabling **collaborative inn
 ---
 
 ## 📂 Weekly Progress
-- [Week 0: Environment Setup](https://github.com/Avinash-gh/RISC-V_SoC_Tapeout_VSD/Week-0) ✅
+- [Week 0: Environment Setup](Week-0) ✅
 - Week 1: TBD  
 - Week 2: TBD  
 - …  
